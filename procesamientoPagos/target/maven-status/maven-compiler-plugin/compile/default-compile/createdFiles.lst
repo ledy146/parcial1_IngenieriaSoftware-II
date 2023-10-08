@@ -1,6 +1,0 @@
-com\mycompany\main\main.class
-procesoPagos\pagoPayPal.class
-procesoPagos\pagoTransferenciaBancaria.class
-procesoPagos\ImetodoPago.class
-procesoPagos\pagoTarjetaCredito.class
-procesoPagos\procesadorPago.class

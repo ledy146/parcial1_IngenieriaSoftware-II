@@ -1,0 +1,7 @@
+Vista\Main.class
+Modelo\Accion.class
+Controlador\NotificadorCambios.class
+Modelo\SMS_System.class
+Modelo\ObservadorNotificacion.class
+Modelo\Portafolio.class
+Controlador\ControladorAcciones.class
